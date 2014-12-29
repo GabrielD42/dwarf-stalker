@@ -1,3 +1,5 @@
+[Mm]erchants
+[Mm]ood
 Autumn
 ban
 Beast
@@ -8,9 +10,7 @@ construction
 dead
 mandate
 melancholy
-[Mm]erchants
 migrants
-[Mm]ood
 possessed
 rest
 Spring
